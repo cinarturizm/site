@@ -1,2 +1,2 @@
-# site.github.io
+# site
 cinar turizm website
